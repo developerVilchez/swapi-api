@@ -34,7 +34,6 @@ Todas estas piezas están aquí para que nosotras podamos desarrollar aplicacion
          });
     ```
 
-
 ## Comenzar con el proyecto
 
 Para inicializar el proyecto debes tener node instalado, para correrlo en un servidor local, encontrarás un archivo `package.json`, donde se encuentran las dependencias y configuración. 

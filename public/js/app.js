@@ -22,6 +22,11 @@ $.ajax({
           $containerSwapi.find('img').eq(i).attr('data-birth',response.results[i].birth_year);
           $containerSwapi.find('p').eq(i).text(response.results[i].name);                          
          }) 
+      },
+      fail:function(request){
+        if(request){
+          alert(request.message);
+        }
       }
     });
 
