@@ -1,0 +1,43 @@
+body {
+    background: url(http://www.script-tutorials.com/demos/360/images/stars.png) top center #000;
+
+  }
+  
+/*Clase header */
+.navbar-brand>img {
+    width: 50%;
+}
+.navbar-default {
+    background: #000;
+}
+
+/*Clase image*/
+
+.container-image, .container-image-modal{
+   max-width: 200px;
+   margin-bottom: 1em;
+
+}
+
+.container-image img {
+   box-shadow: 5px black;
+   border: 1px solid black;
+   border-radius: 5px;
+   position: relative;
+
+}
+
+.container-image:hover {
+    cursor: pointer;
+}
+
+.img-name {
+    background-color: rgb(255, 255, 255);
+    font-size: 0.8rem;
+    font-weight: bold;
+    max-width: 200px;
+    border-radius: 5px;
+    padding-left: 0.5em;
+    
+}
+
