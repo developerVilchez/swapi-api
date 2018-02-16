@@ -34,6 +34,13 @@ Todas estas piezas están aquí para que nosotras podamos desarrollar aplicacion
          });
     ```
 
+### Jquery
+
+Te dejo este link de Medium para que conozcas el porque solo hago la implementación con Jquery.
+
+Por cierto, cabe destacar que es explicado de una genial manera por Lupo Montero!!
+[VanillaJS vs jQuery](https://medium.com/@lupomontero/vanillajs-vs-jquery-31e623bbd46). 
+
 ## Comenzar con el proyecto
 
 Para inicializar el proyecto debes tener node instalado, para correrlo en un servidor local, encontrarás un archivo `package.json`, donde se encuentran las dependencias y configuración. 
