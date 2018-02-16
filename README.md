@@ -39,7 +39,7 @@ Todas estas piezas están aquí para que nosotras podamos desarrollar aplicacion
 Te dejo este link de Medium para que conozcas el porque solo hago la implementación con Jquery.
 
 Por cierto, cabe destacar que es explicado de una genial manera por Lupo Montero!!
-[VanillaJS vs jQuery](https://medium.com/@lupomontero/vanillajs-vs-jquery-31e623bbd46). 
+https://medium.com/@lupomontero/vanillajs-vs-jquery-31e623bbd46e
 
 ## Comenzar con el proyecto
 
